@@ -72,6 +72,7 @@
                      <ul>
                         <li><a href="Index.aspx">Home</a></li>
                         <li><a href="CreateItem.aspx">Create Item</a></li>
+                         <li><a href="CreateList.aspx">Create List</a></li>
                      </ul>
                   </div>
                </aside>

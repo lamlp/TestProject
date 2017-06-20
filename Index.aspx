@@ -9,7 +9,7 @@
             <asp:BoundField DataField="ID" HeaderText="ID" />
             <asp:BoundField DataField="title" HeaderText="Title" />
             <asp:BoundField DataField="description" HeaderText="Description" />
-            <asp:BoundField DataField="created_at" HeaderText="Created At" />
+            <asp:BoundField DataField="created_at" HeaderText="Created At" DataFormatString="{0:dd/MM/yyyy}" />
              </Columns>
             </asp:GridView>
                                         </div>
